@@ -9,7 +9,7 @@ S3-compatible interface for Drime Cloud storage.
 - Automatic retry with exponential backoff for API errors
 - Local MD5 metadata caching for ETag consistency
 - Case-insensitive folder matching
-- Direct streaming from Cloudflare R2
+
 
 ## Installation
 
